@@ -5,11 +5,11 @@
 
 ### Cybersecurity Internship | Week 03
 
-**Network Walks**
+**Networkwalks**
 
 ![Project](https://img.shields.io/badge/Project-Week%203-blue)
 ![Domain](https://img.shields.io/badge/Domain-Cybersecurity-red)
-![Tools](https://img.shields.io/badge/Tools-JTR%20%7C%20Johnny%20%7C%20NW%20Tools-green)
+![Tools](https://img.shields.io/badge/Tools-JTR%20%7C%20Johnny%20%7C%20Networkwalks%20HashingTool-green)
 
 </div>
 
@@ -50,7 +50,7 @@ The exercise involved working with three password-protected PDF documents provid
 5. Executed password recovery attempts using JTR.
 6. Reviewed and documented the results.
 
-### W3-PM2: Password Cracking with Network Walks Tools
+### W3-PM2: Password Cracking with Networkwalks Tools
 
 1. Accessed the Network Walks Hash Extractor.
 2. Extracted document hashes for analysis.
