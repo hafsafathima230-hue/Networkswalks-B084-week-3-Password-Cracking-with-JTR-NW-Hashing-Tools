@@ -35,7 +35,7 @@ The exercise involved working with three password-protected PDF documents provid
 ## 🛠️ Tools & Technologies
 
 - **John the Ripper (JTR):** Password auditing and recovery.
-- **Johnny 2.2:** Front end interface for John the Ripper.
+- **Johnny 2.2:** Graphical User Interface (GUI).
 - **Networkwalks Hash Extractor:** Extracting hashes from protected PDF documents.
 - **Networkwalks Hashing Calculator:** Performing hash-related operations.
 
@@ -80,7 +80,7 @@ The exercise involved working with three password-protected PDF documents provid
 ## 📚 Key Learning Outcomes
 
 - Understanding document password protection and hash extraction.
-- Hands-on experience with John the Ripper and Johnny 2.2.
+- Hands-on experience with John the Ripper and Johnny 2.2 – Graphical User Interface (GUI).
 - Practical exposure to password recovery techniques.
 - Understanding the importance of password complexity.
 - Learning how password auditing supports cybersecurity assessments.
