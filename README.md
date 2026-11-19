@@ -52,7 +52,7 @@ The exercise involved working with three password-protected PDF documents provid
 
 ### W3-PM2: Password Cracking with Networkwalks Tools
 
-1. Accessed the Network Walks Hash Extractor.
+1. Accessed the Networkwalks Hash Extractor.
 2. Extracted document hashes for analysis.
 3. Used the Networkwalks Hashing Calculator.
 4. Practiced hash-related operations and password recovery.
