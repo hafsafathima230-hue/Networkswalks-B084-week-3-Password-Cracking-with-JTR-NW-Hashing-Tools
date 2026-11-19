@@ -80,7 +80,7 @@ The exercise involved working with three password-protected PDF documents provid
 ## 📚 Key Learning Outcomes
 
 - Understanding document password protection and hash extraction.
-- Hands-on experience with John the Ripper and Johnny GUI.
+- Hands-on experience with John the Ripper and Johnny 2.2.
 - Practical exposure to password recovery techniques.
 - Understanding the importance of password complexity.
 - Learning how password auditing supports cybersecurity assessments.
